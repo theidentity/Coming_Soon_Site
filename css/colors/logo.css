@@ -1,0 +1,12 @@
+.logo{
+height: 250px;
+width: auto;
+position:absolute;
+left:50%;
+padding-top: 20px;
+padding-bottom: 20px;
+-ms-transform: translateX(-50%) translateY(-50%);
+-webkit-transform: translate(-50%,-50%);
+transform: translate(-50%,-50%);
+
+}   
